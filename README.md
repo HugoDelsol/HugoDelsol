@@ -1,8 +1,3 @@
 # HugoDelsol
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/golO-Glog=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/golO-Glog=anuraghazra&repo=convoychat" />
-</a>
+![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=golO-Glog&show_icons=true&theme=radical)
