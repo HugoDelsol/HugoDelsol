@@ -1,15 +1,4 @@
 # HugoDelsol
 
-![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=golO-Glog&show_icons=true&theme=radical)
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=golO-Glog&layout=compact&theme=radical)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=golO-Glog&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=golO-Glog&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=golO-Glog&show_icons=true" />
-</picture>
