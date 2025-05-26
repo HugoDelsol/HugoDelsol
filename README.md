@@ -4,8 +4,9 @@
   👋 Salut, moi c'est Hugo
 </h1> 
 <p align = "center">
-  Développeur amateur de projets bien codés (ou presque) et curieux de nature.  <br>
-  J’explore, j’apprends, je construis.
+  Développeur amateur de projets bien codés (en théorie) et curieux de nature.
+  <br>
+  J’explore, j’apprends, je construis. Et je recommence.
 </p> 
 
 <br>
