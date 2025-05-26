@@ -16,7 +16,7 @@ J’explore, j’apprends, je construis.
 
 ## 📊 Mes statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=HugoDelsolg&show_icons=true&theme=radical)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=HugoDelsol&show_icons=true&theme=radical)
 
 ![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDelsol&layout=compact&theme=radical)
 
