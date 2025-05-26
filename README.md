@@ -3,7 +3,8 @@
 <h1>
   👋 Salut, moi c'est Hugo
 </h1> 
-<p align = "center">
+
+<p>
   Développeur amateur de projets bien codés (en théorie) et curieux de nature.
   <br>
   J’explore, j’apprends, je construis. Et je recommence.
@@ -16,19 +17,19 @@
 </h2>
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp; 
-<br>
+<br><br>
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-<br>
+<br><br>
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-<br>
+<br><br>
 ![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-<br>
+<br><br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 <br>
 
 <h2>
-  📊 Mes statistiques GitHub
+  📊 Mes stats GitHub
 </h2>
 
 <p>
