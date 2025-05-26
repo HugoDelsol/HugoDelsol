@@ -16,15 +16,15 @@ J’explore, j’apprends, je construis.
 
 ## 📊 Mes statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=golO-Glog&show_icons=true&theme=radical)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=HugoDelsolg&show_icons=true&theme=radical)
 
-![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=golO-Glog&layout=compact&theme=radical)
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDelsol&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 Trophées GitHub
 
-![Trophées](https://github-profile-trophy.vercel.app/?username=golO-Glog&theme=radical&no-bg=true&no-frame=true&margin-w=15)
+![Trophées](https://github-profile-trophy.vercel.app/?username=HugoDelsol&theme=radical&no-bg=true&no-frame=true&margin-w=15)
 
 ---
 
