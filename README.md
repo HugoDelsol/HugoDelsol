@@ -41,7 +41,7 @@
 </h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoDelsol&layout=compact&theme=radical" alt="Langages utilisés" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HugoDelsol&layout=compact&theme=radical" alt="Langages utilisés" />
 </p>
 
 </div>
