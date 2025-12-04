@@ -44,4 +44,12 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HugoDelsol&layout=compact&theme=radical" alt="Langages utilisés" />
 </p>
 
+<br>
+
+<p>
+  <img src="https://raw.githubusercontent.com/HugoDelsol/HugoDelsol/output/snake.svg" alt="snake animation" />
+</p>
+
+
+
 </div>
