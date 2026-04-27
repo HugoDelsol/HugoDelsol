@@ -12,8 +12,16 @@
 
 ### 🚀 En plein travail sur...
   
-Actuellement en formation **Développeur Web et Web Mobile**, je me concentre sur la création d'applications robustes avec une architecture propre (MVC).
-Mon projet phare : **[Les Éclaireurs Solidaires](https://github.com/HugoDelsol/Les-Eclaireurs-Solidaires)** 🤝 (Gestion de bénévolat).
+Actuellement en formation **Développeur Web et Web Mobile**, je me concentre sur la création d'applications robustes et de projets variés.
+
+**[Les Éclaireurs Solidaires](https://github.com/HugoDelsol/Les-Eclaireurs-Solidaires)** 🤝  
+*(Plateforme de gestion de bénévolat - Architecture MVC)*
+
+**[Jeu Vidéo en Python](https://github.com/HugoDelsol/Platform-Game/tree/develop)** 🎮  
+*(Développement d'un projet orienté objet et logique de jeu)*
+
+**[Calendrier de Prise de RDV](https://github.com/HugoDelsol/Calendar-Pipelette)** 📅  
+*(Solution de gestion pour petite entreprise - En cours de création)*
 
 ---
 
