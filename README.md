@@ -51,7 +51,6 @@ Actuellement en formation **Développeur Web et Web Mobile**, je me concentre su
 
 ---
 
-**📫 Comment me joindre ?**
-C'est par ici sur GitHub ou via mes projets en cours !
+Déboguer, c’est être le détective d’une affiaire où l’on est aussi le coupable.
 
 </div>
