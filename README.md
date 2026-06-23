@@ -20,7 +20,7 @@ Actuellement en formation **Développeur Web et Web Mobile**, je me concentre su
 **[Jeu Vidéo en Python](https://github.com/HugoDelsol/Platform-Game/tree/develop)** 🎮  
 *(Développement d'un projet orienté objet et logique de jeu)*
 
-**[Calendrier de Prise de RDV](https://github.com/HugoDelsol/Calendar-Pipelette)** 📅  
+**[Calendrier de Prise de RDV](https://github.com/HugoDelsol/calendar-manager)** 📅  
 *(Solution de gestion pour petite entreprise - En cours de création)*
 
 ---
