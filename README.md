@@ -48,9 +48,9 @@ Refonte de site vitrine pour une entreprise d'électricité industrielle & maint
 
 ### 📊 Statistiques d'activité
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HugoDelsol&layout=compact&theme=radical&hide=css&lang_count=10&include_all_commits=true" alt="Langages les plus utilisés" />
+<img src="https://ghstats.dev/api/card?username=HugoDelsol&theme=tokyonight" alt="Stats Globales" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=HugoDelsol&show_icons=true&theme=radical&count_private=true" alt="Stats Globales" />
+<img src="https://ghstats.dev/api/langs?username=HugoDelsol&theme=tokyonight&layout=bar" alt="Langages les plus utilisés" />
 <br>
 
 ### 🐍 Contribution Snake
