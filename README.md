@@ -30,7 +30,7 @@ Plateforme de gestion de missions bénévoles — architecture MVC, projet de di
 **[Calendar Manager](https://github.com/HugoDelsol/calendar-manager)** 📅  
 SaaS multi-tenant de prise de rendez-vous — React/Vite, Node.js/Express, MySQL, auth JWT, rappels automatisés (cron + Brevo). Protection BOLA complète, rate limiting, tunnel de réservation public. Déployé sur VPS OVH (Nginx/PM2, HTTPS Let's Encrypt).
 
-**[DR.EMI](https://dr-emi.fr/)** ⚡  
+**[DR.EMI](https://github.com/HugoDelsol/dr-emi-wordpress-theme)** ⚡  
 Refonte de site vitrine pour une entreprise d'électricité industrielle & maintenance — stack WordPress/ACF/Docker.
 
 ---
